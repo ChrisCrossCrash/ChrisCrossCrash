@@ -2,12 +2,12 @@
 
 SITE FEATURES:
 🚀 Single page applications (better user experience)
-💸 Stripe integration: custom payment flow with webhooks
-📈 Custom admin pages
-📧 Sending and receiving emails
-📮 Sending mass emails
-🔔 Admin/manager email notifications for certain events
-💾 Automatic database backups
+- 💸 Stripe integration: custom payment flow with webhooks
+- 📈 Custom admin pages
+- 📧 Sending and receiving emails
+- 📮 Sending mass emails
+- 🔔 Admin/manager email notifications for certain events
+- 💾 Automatic database backups
 
 KEY TECHNOLOGIES:
 💻 Front-End: I prefer to use React for my front-end work, although I am also very familiar with Django templates. I use either Gatsby or Create React App depending on the project needs.
