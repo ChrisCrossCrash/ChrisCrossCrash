@@ -1,7 +1,7 @@
 ⚡ I am a full-stack web developer with professional experience in React, Django, AWS, and the Stripe API. My past work includes MLKSeminars.com, which is a React single page application (SPA) with a Django Rest Framework back-end.
 
-SITE FEATURES:
-🚀 Single page applications (better user experience)
+### Site Features
+- 🚀 Single page applications (better user experience)
 - 💸 Stripe integration: custom payment flow with webhooks
 - 📈 Custom admin pages
 - 📧 Sending and receiving emails
@@ -9,7 +9,10 @@ SITE FEATURES:
 - 🔔 Admin/manager email notifications for certain events
 - 💾 Automatic database backups
 
-KEY TECHNOLOGIES:
+### Key Technologies
+
+Here's what I prefer to use on my own projects, but of course, I am flexible:
+
 💻 Front-End: I prefer to use React for my front-end work, although I am also very familiar with Django templates. I use either Gatsby or Create React App depending on the project needs.
 
 ⚙ Back-End: Django with Django Rest Framework is my go-to solution. I’ve also recently become interested in Graphene-Django (for using GraphQL).
