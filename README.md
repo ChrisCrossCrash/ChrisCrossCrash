@@ -23,7 +23,7 @@ Here's what I prefer to use on my own projects, but of course, I am flexible:
 
 🏢 Infrastructure: I use AWS for pretty much everything: EC2, Lightsail, Route 53, RDS, S3, SES, Lambda, and SNS.
 
-ABOUT ME:
+### About Me
 I live in Ankara Turkey, but I am a native-English speaker from Minnesota, USA. I am easy to communicate with during most office hours in the Americas, Europe, and central Asia.
 
 <!--
