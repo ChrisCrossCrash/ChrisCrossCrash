@@ -6,6 +6,7 @@ The world of web development has always been a rapidly changing environment. We 
 
 - [**MLK Seminars**](https://www.mlkseminars.com) - A place where electrical industry professionals sign up and pay for in-person training seminars. The site has a Next.js front end and a Django Rest Framework back end. Payments are processed by Stripe.
 - [**ChrisKumm.com**](https://www.chriskumm.com) - This is where I showcase my work. The site has a Next.js front end and a custom Telegram integration for receiving contact form messages.
+- [r/Place Python and Blender Data Visualization](https://github.com/ChrisCrossCrash/r-place-blender) - Scripts and Jupyter Notesbooks for r/Place data visualization with Blender and Python.
 - [**InstaArt**](https://insta-art-frontend.vercel.app/) - An online art museum. The site has a Next.js front end and a Django Rest Framework back end.
 - [**Depth Section**](https://www.npmjs.com/package/depth-section) - An open source NPM package for easily adding 3D parallax backgrounds to your site.
 - Much more - I'm always tinkering around with new ideas and experiments. Please check out my GitHub repositories to get an idea what I'm working on.
