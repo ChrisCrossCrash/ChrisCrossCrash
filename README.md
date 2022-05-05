@@ -1,4 +1,4 @@
-![Cover Image](/SpiralPlatform.jpg)
+![Cover Image](/2021GithubHistory.jpg)
 
 ### Full stack web developer with an emphasis on front-end React
 
