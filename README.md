@@ -1,3 +1,5 @@
+![Cover Image](/SpiralPlatform.jpg)
+
 ### Full stack web developer with an emphasis on front-end React
 
 The world of web development has always been a rapidly changing environment. We will never run out of new things to learn and new challenges to overcome. This is exactly what attracted me to web development in the first place. I'm at my best when I'm learning new things and sharing knowledge with other people. The following sections mostly give an overview of my "book knowledge" and experience, but my passion for learning is my greatest asset.
