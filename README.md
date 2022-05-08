@@ -1,11 +1,4 @@
-<!--Use an img tag instead of a normal markdown image to avoid layout shift.-->
-<img
-  src='2021GithubHistory.jpg'
-  alt='ChrisCrossCrash 2021 GitHub history'
-  width='800'
-  height='400'
-  style='aspect-ratio: attr(width) / attr(height); width: 100%; height: auto; object-fit: contain;'
-/>
+![Cover Image](/2021GithubHistory.jpg)
 
 ### Full stack web developer with an emphasis on front-end React
 
