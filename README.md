@@ -4,7 +4,7 @@
   alt='ChrisCrossCrash 2021 GitHub history'
   width='800'
   height='400'
-  style='aspect-ratio: attr(width) / attr(height); width: 100%; height: auto;'
+  style='aspect-ratio: attr(width) / attr(height); width: 100%; height: auto; object-fit: contain;'
 />
 
 ### Full stack web developer with an emphasis on front-end React
