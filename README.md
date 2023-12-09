@@ -30,3 +30,6 @@ My stack is constantly evolving and I love to learn new things. Nowadays, it typ
 - **[Ubuntu Server](https://ubuntu.com/server)**: The back-end Django server
 - **[Blender](https://www.blender.org/)**: 3D modeling software
 - **[Three.JS](https://threejs.org/) with [React Three Fiber](https://github.com/pmndrs/react-three-fiber)**: Libraries for displaying real-time 3D graphics on the web
+
+> [!TIP]
+> Need to send something to me securely? Use my [PGP public key](https://gist.github.com/ChrisCrossCrash/0edc48b28ff088e1a5cd738a677d71d7).
